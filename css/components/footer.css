@@ -1,0 +1,15 @@
+.footer li {
+  display: inline;
+  text-align: center;
+  margin-right: 32px;
+}
+
+.footer ul {
+  padding: 0;
+}
+.footer {
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid, black;
+  background-color: grey;
+}

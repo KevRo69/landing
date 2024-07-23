@@ -1,0 +1,35 @@
+.banner {
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+}
+
+.banner .title {
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+
+.banner .title h1 {
+  font-size: 48px;
+  margin: 0;
+}
+
+.banner .title p {
+  font-size: 32px;
+  margin: 0 0 350px 0;
+}
+
+.banner .title a {
+  font-size: 32px;
+  font-weight: bold;
+  border-radius: 8px;
+  background-color: rgb(36, 107, 173);
+  color: black;
+  padding: 12px 24px;
+  transition: 1s;
+}
+
+.banner .title a:hover {
+  background-color: lightblue;
+}

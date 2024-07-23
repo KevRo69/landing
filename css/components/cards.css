@@ -1,0 +1,27 @@
+.how-to {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8px;
+  gap: 100px;
+  /* background-color: rgba(255, 255, 255, 0.151); */
+}
+
+.card-desc {
+  width: 180px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 12px;
+  margin: 24px;
+  background-color: lightblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.card-desc i {
+  font-size: 48px;
+}
